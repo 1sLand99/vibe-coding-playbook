@@ -2,7 +2,7 @@
 
 **用 AI 写代码很快，但写出能维护的代码很难。**
 
-这个仓库解决的问题是：当你用 Cursor / Windsurf 等 AI IDE 开发时，如何**不让项目在高速迭代中失控**——代码越写越乱、AI 越改越偏、Bug 修了又来。
+这个仓库解决的问题是：当你用 Cursor / Windsurf / Claude Code 等 AI 编程工具开发时，如何**不让项目在高速迭代中失控**——代码越写越乱、AI 越改越偏、Bug 修了又来。
 
 这里沉淀了一套经过实战验证的**提示词、工作流和协作规范**，帮你：
 
@@ -12,19 +12,6 @@
 - **管理复杂度**：从项目启动到维护修复，每个阶段都有明确的过程规范
 
 > 所有内容持续迭代中，欢迎提 Issue 或 PR 分享你的 Vibe Coding 经验。
-
----
-
-## 快速开始
-
-- **第一步**：先把 [AI IDE 全局规则](prompts/global-rules.md) 放进你的 Windsurf / Cursor 全局提示词里
-- **第二步**：按场景选择工作流
-  - 前端任务看 [前端 Vibe 工作流](prompts/frontend-vibe-workflow.md)
-  - 后端任务看 [后端 Vibe 工作流](prompts/backend-vibe-workflow.md)
-- **第三步**：按交付场景补上下文
-  - 有设计稿 / 无设计稿，看 [AI 高质量交付前端 UI](experiences/design-to-code.md)
-  - 需要过程规范和复杂度控制，看 [复杂度管理与人机协作 SOP](experiences/vibe-coding-sop.md)
-- **第四步**：需要实时文档、搜索、代码索引能力时，按 [MCP 服务配置](tools/mcp-servers.json) 和 [MCP 服务说明](tools/mcp-servers.md) 配置工具
 
 ---
 
