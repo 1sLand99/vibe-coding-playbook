@@ -39,26 +39,6 @@
 | [MCP 服务配置](tools/mcp-servers.json) | Context7 / Exa / Tavily / AWSLabs Document Loader / Ace Tool 配置模板 |
 | [MCP 服务说明](tools/mcp-servers.md) | 每个 MCP Server 的用途、核心能力与配置方式 |
 
-### 与 AI 深度交流
-
-Vibe Coding 不只是让 AI 写代码，更重要的是**与 AI 讨论问题、理清思路**。
-
-正如孙宇晨孙哥所说：
-
-![孙宇晨谈 AI 交流](assets/sun-yuchen-ai-talk.png)
-
-> "能和AI聊天就不要和人类聊天"
-
-推荐我开发的工具：
-
-🔗 **[Talkio](https://github.com/llt22/talkio)** - 本地优先的多 AI 群聊桌面应用
-
-**核心特色：**
-- **🎭 多 AI 群聊**：让 GPT、Claude、Gemini、DeepSeek 等多个模型进入同一对话，它们会有不同的思考方式和观点，AI 之间能看到彼此的发言并独立思考
-- **🧠 身份系统**：为 AI 创建角色（翻译官、代码审查员、辩论对手等），自定义系统提示词和参数，一个模型可以在不同对话中扮演不同角色
-- **🔧 MCP 工具调用**：通过 Model Context Protocol 连接远程工具服务器，AI 自动决定何时调用工具
-- **🔒 本地优先**：所有数据存储在本地（SQLite），不运行云端服务，API Key 加密存储，永远不离开你的设备
-
 ---
 
 ## 目录结构
