@@ -1,0 +1,33 @@
+{
+  "mcpServers": {
+    "context7": {
+      "args": [
+        "-y",
+        "@upstash/context7-mcp"
+      ],
+      "command": "npx",
+      "env": {
+        "DEFAULT_MINIMUM_TOKENS": ""
+      }
+    },
+    "exa": {
+      "args": [
+        "-y",
+        "exa-mcp-server"
+      ],
+      "command": "npx",
+      "env": {
+        "EXA_API_KEY": "<your-exa-api-key>"
+      }
+    },
+    "ace-tool": {
+      "command": "ace-tool",
+      "args": [
+        "--base-url",
+        "https://acemcp.heroman.wtf/relay/",
+        "--token",
+        "<your-ace-token>"
+      ]
+    }
+  }
+}

@@ -34,3 +34,9 @@ vibe-coding-playbook/
 | 文件 | 说明 |
 |------|------|
 | [复杂度管理与人机协作 SOP](experiences/vibe-coding-sop.md) | 四阶段 SOP：前置基建 → 过程控制 → 质量闸口 → 维护修复 |
+
+### 工具配置
+
+| 文件 | 说明 |
+|------|------|
+| [MCP 服务配置](tools/mcp-servers.json) | MCP Server 配置模板（Context7 / Exa / Ace Tool），需自行填入 API Key |
