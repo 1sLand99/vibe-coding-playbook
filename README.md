@@ -54,7 +54,13 @@
 
 ### 与 AI 深度交流
 
-Vibe Coding 不只是让 AI 写代码，更重要的是**与 AI 讨论问题、理清思路**。正如孙宇晨孙哥所说，要学会和 AI 交流。
+Vibe Coding 不只是让 AI 写代码，更重要的是**与 AI 讨论问题、理清思路**。
+
+正如孙宇晨孙哥所说：
+
+![孙宇晨谈 AI 交流](assets/sun-yuchen-ai-talk.png)
+
+> "能和AI聊天就不要和人类聊天"
 
 日常开发中，我用 [Gemini](https://gemini.google.com) 来讨论技术方案、分析问题根因。如果你也有这个需求，推荐试试我开发的工具：
 
