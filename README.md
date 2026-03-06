@@ -34,7 +34,7 @@
 
 | 文件 | 说明 |
 |------|------|
-| [AI IDE 全局规则](prompts/global-rules.md) | 贴入 AI IDE 的全局提示词，控制 AI 行为边界（适用于 Windsurf / Cursor） |
+| [AI IDE 全局规则](prompts/global-rules.md) | 贴入 AI 编程工具的全局提示词，控制 AI 行为边界（适用于 Cursor / Windsurf / Claude Code 等） |
 | [前端 Vibe 工作流](prompts/frontend-vibe-workflow.md) | 核心原则、组件结构、状态管理、Prompt 写法、审计清单 |
 | [后端 Vibe 工作流](prompts/backend-vibe-workflow.md) | 不变量、DoD、LLM 集成、慢 SQL 定位 |
 

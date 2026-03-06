@@ -102,8 +102,9 @@
    - `<your-tavily-api-key>` → Tavily API Key
    - `<your-ace-token>` → Ace Tool Token
 3. 如使用 AWSLabs Document Loader，请确认本机已安装 `uv` / `uvx`
-4. 粘贴到你的 AI IDE 对应配置文件中：
+4. 粘贴到你的 AI 编程工具对应配置文件中：
    - **Windsurf**：`~/.codeium/windsurf/mcp_config.json`
    - **Cursor**：`~/.cursor/mcp.json`
+   - **Claude Code**：按其官方文档进行 MCP 配置挂载
 
 > ⚠️ **安全提醒**：永远不要将包含真实 API Key、本地绝对路径或其他敏感配置的文件提交到 Git 仓库。

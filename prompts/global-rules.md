@@ -1,6 +1,6 @@
 # AI IDE 全局规则（Global Rules）
 
-> 适用于 Windsurf / Cursor 等 AI IDE 的全局提示词，控制 AI 的行为边界和协作规范。
+> 适用于 Cursor / Windsurf / Claude Code 等 AI 编程工具的全局提示词，控制 AI 的行为边界和协作规范。
 
 ---
 
